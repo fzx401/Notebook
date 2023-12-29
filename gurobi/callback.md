@@ -18,3 +18,4 @@ def mycallback(model, where):
         print(model.cbGet(GRB.Callback.SPX_OBJVAL))
 model.optimize(mycallback)
 ```
+&#x1F60A;
