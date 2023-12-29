@@ -8,8 +8,11 @@ df = pd.DataFrame(np.random.randn(10, 5))
 df2 = df.iloc[5:, :]
 df2
 ```
-![Alt text](images/image.png)
+
+![](images/image.png)
+
 ```
 df2.reset_index(drop=True)
 ```
-![Alt text](images/image-1.png)
+
+![](images/image-1.png)
