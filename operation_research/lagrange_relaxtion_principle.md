@@ -53,7 +53,7 @@ $$
 $$
 
 *It is a non-differentiable concave functions as follow:*
-![Alt text](./images/image.png)
+![](./images/image.png)
 
 > *It is impossible for us to enumerate all $x$ $\in$ $X$, so we can not figure out the overall view of $L(\lambda)$, to find the "peak"*, subgradient is a good method to improve the lower bound
 
