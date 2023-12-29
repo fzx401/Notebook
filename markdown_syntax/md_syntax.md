@@ -198,7 +198,7 @@ $$
 $$
 
 特殊字符
-![Alt text](image.png)
+![Alt text](./images/image.png)
 
 公式编号与引用
 $$
