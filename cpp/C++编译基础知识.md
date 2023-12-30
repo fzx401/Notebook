@@ -45,3 +45,17 @@
 - "options": "cwd"默认当前文件路径名
 - "problemMatcher": clang下默认为“$gcc”
 - "group": "kind": 任务组别 "idDefault": 是否为默认任务
+
+ ---
+
+## 运行编译
+- 定义好任务后，直接通过terminal的Run Task选择上面label参数中定义好的任务名进行编译
+<div style="text-align:left">
+<img src='./images/image.png' width = "300"/><img src='./images/image_2.png' width = "400"/>
+</div>
+
+<div style="text-align:center">
+<img src='./images/image_3.png' width = "600"/>
+</div>
+
+> 编译成功！可cd到输出目录直接运行
